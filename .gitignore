@@ -5,7 +5,7 @@
 ### Java-Web ###
 ## ignoring target file
 target/
-webservice/
+salvados/webservice/
 build/
 bin/
 libs/
